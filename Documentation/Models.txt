@@ -1,0 +1,19 @@
+User - stores user info:
+    name: user's name
+    profile: user profile picture
+    country: user's country
+    city: user's city
+    description: user bio
+    ----settings----
+    status: public/private
+    scheme: light/dark
+    font: font-name
+
+Project - stores project info:
+    status: public/private
+	name: project name
+    file: id of file(s) related to project
+	thumbnail: optional
+    date: date created/posted
+	mainImage: display image
+    secondaryImages: carousel images
